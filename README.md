@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="PaintSHOP-logo.png" width="200">
+</div>
+
 # PaintSHOP_resources
 A collection of downloadable resources accompanying the PaintSHOP application.
 
