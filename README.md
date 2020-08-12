@@ -9,7 +9,7 @@ A collection of downloadable resources accompanying the PaintSHOP application.
 # FISH Probes
 
 | Assembly | DNA probes | RNA probes<br>(isoform-resolved) | RNA probes<br>(isoform-flattened) |
-|----------|------------------------------|------------------------------|------------------------------|
+| :-: | :-: | :-: | :-: |
 | hg38 newBalance |  [download]() |  [download]() |  [download]() |
 | hg19 newBalance |  [download]() |  [download]() |  [download]() |
 | mm10 newBalance |  [download]() |  [download]() |  [download]() |
