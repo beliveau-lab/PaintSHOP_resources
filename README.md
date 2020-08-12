@@ -6,7 +6,7 @@
 
 A collection of downloadable resources accompanying the PaintSHOP application.
 
-# FISH Probe Sets
+## FISH Probe Sets
 
 <div align="center">
     <table>
@@ -102,7 +102,7 @@ A collection of downloadable resources accompanying the PaintSHOP application.
 </div>
 
 
-# Appending Sequence Files
+## Appending Sequence Files
  
 
 <div align="center">
