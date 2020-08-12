@@ -9,13 +9,13 @@ A collection of downloadable resources accompanying the PaintSHOP application.
 # FISH Probes
 
 <div align="center">
-    <table>
+    <table align="center">
         <thead>
             <tr>
+                <th>TODO12345</th>
                 <th>TODO</th>
                 <th>TODO</th>
-                <th>TODO</th>
-                <th>TODO</th>
+                <th>TODO123</th>
             </tr>
         </thead>
         <tbody>
