@@ -104,6 +104,36 @@ A collection of downloadable resources accompanying the PaintSHOP application.
 
 ## Appending Sequence Files
  
+
+<div align="center">
+    <table>
+        <thead>
+            <tr>
+                <th align="center">Appending Sequences</th>
+                <th align="center">Link</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td align="center">TODO...</td>
+                <td align="center"><a href="#">download</a></td>
+            </tr>
+            <tr>
+                <td align="center">TODO...</td>
+                <td align="center"><a href="#">download</a></td>
+            </tr>
+            <tr>
+                <td align="center">TODO...</td>
+                <td align="center"><a href="#">download</a></td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+
+
+<!-- 
+
 ### Download links:
 
 * [Mateo et al. 2019 Bridges](https://paintshop-bucket.s3.amazonaws.com/resources/appending/Mateo2019_bridges.zip)
@@ -118,3 +148,4 @@ A collection of downloadable resources accompanying the PaintSHOP application.
 * [PaintSHOP Outer Reverse Primers](https://paintshop-bucket.s3.amazonaws.com/resources/appending/ps_or.zip)
 * [SABER 1X Sequences](https://paintshop-bucket.s3.amazonaws.com/resources/appending/saber_1x.zip)
 * [SABER 2X Sequences](https://paintshop-bucket.s3.amazonaws.com/resources/appending/saber_2x.zip)
+ -->
