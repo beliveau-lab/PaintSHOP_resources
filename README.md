@@ -20,10 +20,10 @@ A collection of downloadable resources accompanying the PaintSHOP application.
         </thead>
         <tbody>
             <tr>
-                <td align="center"><a href="#">Download</a></td>
-                <td align="center"><a href="#">Download</a></td>
-                <td align="center"><a href="#">Download</a></td>
-                <td align="center"><a href="#">Download</a></td>
+                <td align="center">hg38 newBalance</td>
+                <td align="center"><a href="#">download</a></td>
+                <td align="center"><a href="#">download</a></td>
+                <td align="center"><a href="#">download</a></td>
             </tr>
         </tbody>
     </table>
