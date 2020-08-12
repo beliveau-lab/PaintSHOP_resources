@@ -21,7 +21,7 @@ A collection of downloadable resources accompanying the PaintSHOP application.
         <tbody>
             <tr>
                 <td align="center">hg38 newBalance</td>
-                <td align="center"><a href="#">download</a></td>
+                <td align="center"><a href="https://paintshop-bucket.s3.amazonaws.com/v1.1/resources/all/hg38_all_newBalance.zip">download</a></td>
                 <td align="center"><a href="#">download</a></td>
                 <td align="center"><a href="#">download</a></td>
             </tr>
