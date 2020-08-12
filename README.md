@@ -104,17 +104,17 @@ A collection of downloadable resources accompanying the PaintSHOP application.
 
 # Appending Sequence Files
  
-## Download links:
+### Download links:
 
-* [Mateo et al. 2019 Bridges](https://paintshop-bucket.s3.amazonaws.com/resources/appending/Mateo2019_bridges.zip)
-* [Xia et al. 2019 Bridges](https://paintshop-bucket.s3.amazonaws.com/resources/appending/Xia2019_bridges.zip)
-* [MERFISH Bridges](https://paintshop-bucket.s3.amazonaws.com/resources/appending/merfish_bridges.zip)
-* [MERFISH Primers](https://paintshop-bucket.s3.amazonaws.com/resources/appending/merfish_primers.zip)
-* [Appending Nomenclature](https://paintshop-bucket.s3.amazonaws.com/resources/appending/nomenclature.zip)
-* [PaintSHOP Bridges](https://paintshop-bucket.s3.amazonaws.com/resources/appending/ps_bridges.zip)
-* [PaintSHOP Inner Forward Primers](https://paintshop-bucket.s3.amazonaws.com/resources/appending/ps_if.zip)
-* [PaintSHOP Inner Reverse Primers](https://paintshop-bucket.s3.amazonaws.com/resources/appending/ps_ir.zip)
-* [PaintSHOP Outer Forward Primers](https://paintshop-bucket.s3.amazonaws.com/resources/appending/ps_of.zip)
-* [PaintSHOP Outer Reverse Primers](https://paintshop-bucket.s3.amazonaws.com/resources/appending/ps_or.zip)
-* [SABER 1X Sequences](https://paintshop-bucket.s3.amazonaws.com/resources/appending/saber_1x.zip)
-* [SABER 2X Sequences](https://paintshop-bucket.s3.amazonaws.com/resources/appending/saber_2x.zip)
+    * [Mateo et al. 2019 Bridges](https://paintshop-bucket.s3.amazonaws.com/resources/appending/Mateo2019_bridges.zip)
+    * [Xia et al. 2019 Bridges](https://paintshop-bucket.s3.amazonaws.com/resources/appending/Xia2019_bridges.zip)
+    * [MERFISH Bridges](https://paintshop-bucket.s3.amazonaws.com/resources/appending/merfish_bridges.zip)
+    * [MERFISH Primers](https://paintshop-bucket.s3.amazonaws.com/resources/appending/merfish_primers.zip)
+    * [Appending Nomenclature](https://paintshop-bucket.s3.amazonaws.com/resources/appending/nomenclature.zip)
+    * [PaintSHOP Bridges](https://paintshop-bucket.s3.amazonaws.com/resources/appending/ps_bridges.zip)
+    * [PaintSHOP Inner Forward Primers](https://paintshop-bucket.s3.amazonaws.com/resources/appending/ps_if.zip)
+    * [PaintSHOP Inner Reverse Primers](https://paintshop-bucket.s3.amazonaws.com/resources/appending/ps_ir.zip)
+    * [PaintSHOP Outer Forward Primers](https://paintshop-bucket.s3.amazonaws.com/resources/appending/ps_of.zip)
+    * [PaintSHOP Outer Reverse Primers](https://paintshop-bucket.s3.amazonaws.com/resources/appending/ps_or.zip)
+    * [SABER 1X Sequences](https://paintshop-bucket.s3.amazonaws.com/resources/appending/saber_1x.zip)
+    * [SABER 2X Sequences](https://paintshop-bucket.s3.amazonaws.com/resources/appending/saber_2x.zip)
