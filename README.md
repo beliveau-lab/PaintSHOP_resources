@@ -12,25 +12,25 @@ A collection of downloadable resources accompanying the PaintSHOP application.
     <table>
         <thead>
             <tr>
-                <th>TODO12345</th>
-                <th>TODO</th>
-                <th>TODO</th>
-                <th>TODO123</th>
+                <th align="center">Assembly</th>
+                <th align="center">DNA FISH probes</th>
+                <th align="center">RNA FISH probes<br>(isoform-resolved)</th>
+                <th align="center">RNA FISH probes<br>(isoform-flattened)</th>
             </tr>
         </thead>
         <tbody>
             <tr>
-                <td align="center">TODO</td>
-                <td align="center">TODO</td>
-                <td align="center">TODO</td>
-                <td align="center">TODO</td>
+                <td align="center"><a href="#">Download</a></td>
+                <td align="center"><a href="#">Download</a></td>
+                <td align="center"><a href="#">Download</a></td>
+                <td align="center"><a href="#">Download</a></td>
             </tr>
         </tbody>
     </table>
 </div>
 
 <!-- 
-| Assembly | DNA FISH probes | RNA FISH probes<br>(isoform-resolved) | RNA FISH probes<br>(isoform-flattened) |
+|  |  |  |  |
 | :-: | :-: | :-: | :-: |
 | hg38 newBalance |  [download]() |  [download]() |  [download]() |
 | hg19 newBalance |  [download]() |  [download]() |  [download]() |
