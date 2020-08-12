@@ -1,11 +1,19 @@
 <div align="center">
-    <a href="#"><img src="PaintSHOP-logo.png" width="200"></a>
+    <a href="#readme"><img src="PaintSHOP-logo.png" width="200"></a>
 </div>
 
 # PaintSHOP_resources
+
 A collection of downloadable resources accompanying the PaintSHOP application.
 
+# FISH Probes
+
+| Assembly | DNA probes | RNA probes (isoform-resolved) | RNA probes (isoform-flattened) |
+|----------|------------|-------------------------------|--------------------------------|
+| TODO |  TODO |  TODO |  TODO |
+
 # Full Probe Sets
+
 <details>
   <summary>Click to expand</summary>
   
