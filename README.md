@@ -8,21 +8,21 @@ A collection of downloadable resources accompanying the PaintSHOP application.
 
 # FISH Probes
 
-| Assembly | DNA probes | RNA probes (isoform-resolved) | RNA probes (isoform-flattened) |
+| Assembly | DNA probes | RNA probes<br>(isoform-resolved) | RNA probes<br>(isoform-flattened) |
 |----------|------------|-------------------------------|--------------------------------|
-| hg38 newBalance |  [link]() |  [link]() |  [link]() |
-| hg19 newBalance |  [link]() |  [link]() |  [link]() |
-| mm10 newBalance |  [link]() |  [link]() |  [link]() |
-| mm9 newBalance |  [link]() |  [link]() |  [link]() |
-| dm6 newBalance |  [link]() |  [link]() |  [link]() |
-| ce11 newBalance |  [link]() |  [link]() |  [link]() |
-| danRer11 newBalance |  [link]() |  [link]() |  [link]() |
-| TAIR10 newBalance |  [link]() |  [link]() |  [link]() |
-| sacCer3 newBalance |  [link]() |  [link]() |  [link]() |
-| OligoMiner hg38 balance |  [link]() |  [link]() |  [link]() |
-| OligoMiner hg19 balance |  [link]() |  [link]() |  [link]() |
-| 2012 oligopaints hg19 |  [link]() |  [link]() |  [link]() |
-| iFISH4U 40-mer hg19 |  [link]() |  [link]() |  [link]() |
+| hg38 newBalance |  [download]() |  [download]() |  [download]() |
+| hg19 newBalance |  [download]() |  [download]() |  [download]() |
+| mm10 newBalance |  [download]() |  [download]() |  [download]() |
+| mm9 newBalance |  [download]() |  [download]() |  [download]() |
+| dm6 newBalance |  [download]() |  [download]() |  [download]() |
+| ce11 newBalance |  [download]() |  [download]() |  [download]() |
+| danRer11 newBalance |  [download]() |  [download]() |  [download]() |
+| TAIR10 newBalance |  [download]() |  [download]() |  [download]() |
+| sacCer3 newBalance |  [download]() |  [download]() |  [download]() |
+| OligoMiner hg38 balance |  [download]() |  [download]() |  [download]() |
+| OligoMiner hg19 balance |  [download]() |  [download]() |  [download]() |
+| 2012 oligopaints hg19 |  [download]() |  [download]() |  [download]() |
+| iFISH4U 40-mer hg19 |  [download]() |  [download]() |  [download]() |
 
 # Full Probe Sets
 
