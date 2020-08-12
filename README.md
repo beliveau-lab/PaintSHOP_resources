@@ -9,7 +9,7 @@ A collection of downloadable resources accompanying the PaintSHOP application.
 # FISH Probes
 
 <div align="center">
-    <table align="center">
+    <table>
         <thead>
             <tr>
                 <th>TODO12345</th>
@@ -20,10 +20,10 @@ A collection of downloadable resources accompanying the PaintSHOP application.
         </thead>
         <tbody>
             <tr>
-                <td>TODO</td>
-                <td>TODO</td>
-                <td>TODO</td>
-                <td>TODO</td>
+                <td align="center">TODO</td>
+                <td align="center">TODO</td>
+                <td align="center">TODO</td>
+                <td align="center">TODO</td>
             </tr>
         </tbody>
     </table>
