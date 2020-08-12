@@ -10,7 +10,19 @@ A collection of downloadable resources accompanying the PaintSHOP application.
 
 | Assembly | DNA probes | RNA probes (isoform-resolved) | RNA probes (isoform-flattened) |
 |----------|------------|-------------------------------|--------------------------------|
-| TODO |  TODO |  TODO |  TODO |
+| hg38 newBalance |  [link]() |  [link]() |  [link]() |
+| hg19 newBalance |  [link]() |  [link]() |  [link]() |
+| mm10 newBalance |  [link]() |  [link]() |  [link]() |
+| mm9 newBalance |  [link]() |  [link]() |  [link]() |
+| dm6 newBalance |  [link]() |  [link]() |  [link]() |
+| ce11 newBalance |  [link]() |  [link]() |  [link]() |
+| danRer11 newBalance |  [link]() |  [link]() |  [link]() |
+| TAIR10 newBalance |  [link]() |  [link]() |  [link]() |
+| sacCer3 newBalance |  [link]() |  [link]() |  [link]() |
+| OligoMiner hg38 balance |  [link]() |  [link]() |  [link]() |
+| OligoMiner hg19 balance |  [link]() |  [link]() |  [link]() |
+| 2012 oligopaints hg19 |  [link]() |  [link]() |  [link]() |
+| iFISH4U 40-mer hg19 |  [link]() |  [link]() |  [link]() |
 
 # Full Probe Sets
 
@@ -18,8 +30,9 @@ A collection of downloadable resources accompanying the PaintSHOP application.
   <summary>Click to expand</summary>
   
   ## Download links:
-  * [ce11 newBalance](https://paintshop-bucket.s3.amazonaws.com/resources/all/ce11_all_newBalance.zip)
-  * [dm6 newBalance](https://paintshop-bucket.s3.amazonaws.com/resources/all/dm6_all_newBalance.zip)
+
+* [](https://paintshop-bucket.s3.amazonaws.com/resources/all/ce11_all_newBalance.zip)
+  * [](https://paintshop-bucket.s3.amazonaws.com/resources/all/dm6_all_newBalance.zip)
   * [Oligopaints (2012) hg19](https://paintshop-bucket.s3.amazonaws.com/resources/all/hg19_2012_all.zip)
   * [hg19 newBalance](https://paintshop-bucket.s3.amazonaws.com/resources/all/hg19_all_newBalance.zip)
   * [OligoMiner hg19b](https://paintshop-bucket.s3.amazonaws.com/resources/all/hg19b_all.zip)
