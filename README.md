@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="PaintSHOP-logo.png" width="200">
+    <a href="#"><img src="PaintSHOP-logo.png" width="200"></a>
 </div>
 
 # PaintSHOP_resources
