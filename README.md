@@ -27,73 +27,73 @@ A collection of downloadable resources accompanying the PaintSHOP application.
             </tr>
             <tr>
                 <td align="center">hg19 newBalance</td>
-                <td align="center"><a href="#">download</a></td>
+                <td align="center"><a href="https://paintshop-bucket.s3.amazonaws.com/v1.1/resources/all/hg19_all_newBalance.zip">download</a></td>
                 <td align="center"><a href="#">download</a></td>
                 <td align="center"><a href="#">download</a></td>
             </tr>
             <tr>
                 <td align="center">mm10 newBalance</td>
-                <td align="center"><a href="#">download</a></td>
+                <td align="center"><a href="https://paintshop-bucket.s3.amazonaws.com/v1.1/resources/all/mm10_all_newBalance.zip">download</a></td>
                 <td align="center"><a href="#">download</a></td>
                 <td align="center"><a href="#">download</a></td>
             </tr>
             <tr>
                 <td align="center">mm9 newBalance</td>
-                <td align="center"><a href="#">download</a></td>
+                <td align="center"><a href="https://paintshop-bucket.s3.amazonaws.com/v1.1/resources/all/mm9_all_newBalance.zip">download</a></td>
                 <td align="center"><a href="#">download</a></td>
                 <td align="center"><a href="#">download</a></td>
             </tr>
             <tr>
                 <td align="center">dm6 newBalance</td>
-                <td align="center"><a href="#">download</a></td>
+                <td align="center"><a href="https://paintshop-bucket.s3.amazonaws.com/v1.1/resources/all/dm6_all_newBalance.zip">download</a></td>
                 <td align="center"><a href="#">download</a></td>
                 <td align="center"><a href="#">download</a></td>
             </tr>
             <tr>
                 <td align="center">ce11 newBalance</td>
-                <td align="center"><a href="#">download</a></td>
+                <td align="center"><a href="https://paintshop-bucket.s3.amazonaws.com/v1.1/resources/all/ce11_all_newBalance.zip">download</a></td>
                 <td align="center"><a href="#">download</a></td>
                 <td align="center"><a href="#">download</a></td>
             </tr>
             <tr>
                 <td align="center">danRer11 newBalance</td>
-                <td align="center"><a href="#">download</a></td>
+                <td align="center"><a href="https://paintshop-bucket.s3.amazonaws.com/v1.1/resources/all/danRer11_all_newBalance.zip">download</a></td>
                 <td align="center"><a href="#">download</a></td>
                 <td align="center"><a href="#">download</a></td>
             </tr>
             <tr>
                 <td align="center">TAIR10 newBalance</td>
-                <td align="center"><a href="#">download</a></td>
+                <td align="center"><a href="https://paintshop-bucket.s3.amazonaws.com/v1.1/resources/all/TAIR10_all_newBalance.zip">download</a></td>
                 <td align="center"><a href="#">download</a></td>
                 <td align="center"><a href="#">download</a></td>
             </tr>
             <tr>
                 <td align="center">sacCer3 newBalance</td>
-                <td align="center"><a href="#">download</a></td>
+                <td align="center"><a href="https://paintshop-bucket.s3.amazonaws.com/v1.1/resources/all/sacCer3_all_newBalance.zip">download</a></td>
                 <td align="center"><a href="#">download</a></td>
                 <td align="center"><a href="#">download</a></td>
             </tr>
             <tr>
                 <td align="center">OligoMiner hg38 balance</td>
-                <td align="center"><a href="#">download</a></td>
+                <td align="center"><a href="https://paintshop-bucket.s3.amazonaws.com/v1.1/resources/all/hg38b_all_newBalance.zip">download</a></td>
                 <td align="center"><a href="#">download</a></td>
                 <td align="center"><a href="#">download</a></td>
             </tr>
             <tr>
                 <td align="center">OligoMiner hg19 balance</td>
-                <td align="center"><a href="#">download</a></td>
+                <td align="center"><a href="https://paintshop-bucket.s3.amazonaws.com/v1.1/resources/all/hg19b_all_newBalance.zip">download</a></td>
                 <td align="center"><a href="#">download</a></td>
                 <td align="center"><a href="#">download</a></td>
             </tr>
             <tr>
                 <td align="center">2012 oligopaints hg19</td>
-                <td align="center"><a href="#">download</a></td>
+                <td align="center"><a href="https://paintshop-bucket.s3.amazonaws.com/v1.1/resources/all/hg19_2012_all_newBalance.zip">download</a></td>
                 <td align="center"><a href="#">download</a></td>
                 <td align="center"><a href="#">download</a></td>
             </tr>
             <tr>
                 <td align="center">iFISH4U 40-mer hg19</td>
-                <td align="center"><a href="#">download</a></td>
+                <td align="center"><a href="https://paintshop-bucket.s3.amazonaws.com/v1.1/resources/all/iFISH4U_all_newBalance.zip">download</a></td>
                 <td align="center"><a href="#">download</a></td>
                 <td align="center"><a href="#">download</a></td>
             </tr>
