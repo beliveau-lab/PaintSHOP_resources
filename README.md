@@ -6,7 +6,7 @@
 
 A collection of downloadable resources accompanying the PaintSHOP application.
 
-# FISH Probes
+# FISH Probe Sets
 
 <div align="center">
     <table>
@@ -25,28 +25,83 @@ A collection of downloadable resources accompanying the PaintSHOP application.
                 <td align="center"><a href="#">download</a></td>
                 <td align="center"><a href="#">download</a></td>
             </tr>
+            <tr>
+                <td align="center">hg19 newBalance</td>
+                <td align="center"><a href="#">download</a></td>
+                <td align="center"><a href="#">download</a></td>
+                <td align="center"><a href="#">download</a></td>
+            </tr>
+            <tr>
+                <td align="center">mm10 newBalance</td>
+                <td align="center"><a href="#">download</a></td>
+                <td align="center"><a href="#">download</a></td>
+                <td align="center"><a href="#">download</a></td>
+            </tr>
+            <tr>
+                <td align="center">mm9 newBalance</td>
+                <td align="center"><a href="#">download</a></td>
+                <td align="center"><a href="#">download</a></td>
+                <td align="center"><a href="#">download</a></td>
+            </tr>
+            <tr>
+                <td align="center">dm6 newBalance</td>
+                <td align="center"><a href="#">download</a></td>
+                <td align="center"><a href="#">download</a></td>
+                <td align="center"><a href="#">download</a></td>
+            </tr>
+            <tr>
+                <td align="center">ce11 newBalance</td>
+                <td align="center"><a href="#">download</a></td>
+                <td align="center"><a href="#">download</a></td>
+                <td align="center"><a href="#">download</a></td>
+            </tr>
+            <tr>
+                <td align="center">danRer11 newBalance</td>
+                <td align="center"><a href="#">download</a></td>
+                <td align="center"><a href="#">download</a></td>
+                <td align="center"><a href="#">download</a></td>
+            </tr>
+            <tr>
+                <td align="center">TAIR10 newBalance</td>
+                <td align="center"><a href="#">download</a></td>
+                <td align="center"><a href="#">download</a></td>
+                <td align="center"><a href="#">download</a></td>
+            </tr>
+            <tr>
+                <td align="center">sacCer3 newBalance</td>
+                <td align="center"><a href="#">download</a></td>
+                <td align="center"><a href="#">download</a></td>
+                <td align="center"><a href="#">download</a></td>
+            </tr>
+            <tr>
+                <td align="center">OligoMiner hg38 balance</td>
+                <td align="center"><a href="#">download</a></td>
+                <td align="center"><a href="#">download</a></td>
+                <td align="center"><a href="#">download</a></td>
+            </tr>
+            <tr>
+                <td align="center">OligoMiner hg19 balance</td>
+                <td align="center"><a href="#">download</a></td>
+                <td align="center"><a href="#">download</a></td>
+                <td align="center"><a href="#">download</a></td>
+            </tr>
+            <tr>
+                <td align="center">2012 oligopaints hg19</td>
+                <td align="center"><a href="#">download</a></td>
+                <td align="center"><a href="#">download</a></td>
+                <td align="center"><a href="#">download</a></td>
+            </tr>
+            <tr>
+                <td align="center">iFISH4U 40-mer hg19</td>
+                <td align="center"><a href="#">download</a></td>
+                <td align="center"><a href="#">download</a></td>
+                <td align="center"><a href="#">download</a></td>
+            </tr>
         </tbody>
     </table>
 </div>
 
-<!-- 
-|  |  |  |  |
-| :-: | :-: | :-: | :-: |
-| hg38 newBalance |  [download]() |  [download]() |  [download]() |
-| hg19 newBalance |  [download]() |  [download]() |  [download]() |
-| mm10 newBalance |  [download]() |  [download]() |  [download]() |
-| mm9 newBalance |  [download]() |  [download]() |  [download]() |
-| dm6 newBalance |  [download]() |  [download]() |  [download]() |
-| ce11 newBalance |  [download]() |  [download]() |  [download]() |
-| danRer11 newBalance |  [download]() |  [download]() |  [download]() |
-| TAIR10 newBalance |  [download]() |  [download]() |  [download]() |
-| sacCer3 newBalance |  [download]() |  [download]() |  [download]() |
-| OligoMiner hg38 balance |  [download]() |  [download]() |  [download]() |
-| OligoMiner hg19 balance |  [download]() |  [download]() |  [download]() |
-| 2012 oligopaints hg19 |  [download]() |  [download]() |  [download]() |
-| iFISH4U 40-mer hg19 |  [download]() |  [download]() |  [download]() |
 
- -->
 # Appending Sequence Files
  
 ## Download links:
