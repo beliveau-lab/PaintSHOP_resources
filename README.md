@@ -9,25 +9,44 @@ A collection of downloadable resources accompanying the PaintSHOP application.
 # FISH Probes
 
 <div align="center">
-
-    | Assembly | DNA FISH probes | RNA FISH probes<br>(isoform-resolved) | RNA FISH probes<br>(isoform-flattened) |
-    | :-: | :-: | :-: | :-: |
-    | hg38 newBalance |  [download]() |  [download]() |  [download]() |
-    | hg19 newBalance |  [download]() |  [download]() |  [download]() |
-    | mm10 newBalance |  [download]() |  [download]() |  [download]() |
-    | mm9 newBalance |  [download]() |  [download]() |  [download]() |
-    | dm6 newBalance |  [download]() |  [download]() |  [download]() |
-    | ce11 newBalance |  [download]() |  [download]() |  [download]() |
-    | danRer11 newBalance |  [download]() |  [download]() |  [download]() |
-    | TAIR10 newBalance |  [download]() |  [download]() |  [download]() |
-    | sacCer3 newBalance |  [download]() |  [download]() |  [download]() |
-    | OligoMiner hg38 balance |  [download]() |  [download]() |  [download]() |
-    | OligoMiner hg19 balance |  [download]() |  [download]() |  [download]() |
-    | 2012 oligopaints hg19 |  [download]() |  [download]() |  [download]() |
-    | iFISH4U 40-mer hg19 |  [download]() |  [download]() |  [download]() |
-
+    <table>
+        <thead>
+            <tr>
+                <th>TODO</th>
+                <th>TODO</th>
+                <th>TODO</th>
+                <th>TODO</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>TODO</td>
+                <td>TODO</td>
+                <td>TODO</td>
+                <td>TODO</td>
+            </tr>
+        </tbody>
+    </table>
 </div>
 
+<!-- 
+| Assembly | DNA FISH probes | RNA FISH probes<br>(isoform-resolved) | RNA FISH probes<br>(isoform-flattened) |
+| :-: | :-: | :-: | :-: |
+| hg38 newBalance |  [download]() |  [download]() |  [download]() |
+| hg19 newBalance |  [download]() |  [download]() |  [download]() |
+| mm10 newBalance |  [download]() |  [download]() |  [download]() |
+| mm9 newBalance |  [download]() |  [download]() |  [download]() |
+| dm6 newBalance |  [download]() |  [download]() |  [download]() |
+| ce11 newBalance |  [download]() |  [download]() |  [download]() |
+| danRer11 newBalance |  [download]() |  [download]() |  [download]() |
+| TAIR10 newBalance |  [download]() |  [download]() |  [download]() |
+| sacCer3 newBalance |  [download]() |  [download]() |  [download]() |
+| OligoMiner hg38 balance |  [download]() |  [download]() |  [download]() |
+| OligoMiner hg19 balance |  [download]() |  [download]() |  [download]() |
+| 2012 oligopaints hg19 |  [download]() |  [download]() |  [download]() |
+| iFISH4U 40-mer hg19 |  [download]() |  [download]() |  [download]() |
+
+ -->
 # Appending Sequence Files
  
 ## Download links:
