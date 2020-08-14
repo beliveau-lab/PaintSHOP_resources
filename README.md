@@ -108,57 +108,70 @@ A collection of downloadable resources accompanying the PaintSHOP application.
         <thead>
             <tr>
                 <th align="center">Appending Sequences</th>
-                <th align="center">Link</th>
+                <th align="center">Compressed .tsv</th>
+                <th align="center">Plaintext</th>
             </tr>
         </thead>
         <tbody>
             <tr>
                 <td align="left">Mateo et al. 2019 Bridges</td>
                 <td align="center"><a href="https://paintshop-bucket.s3.amazonaws.com/v1.1/resources/appending/Mateo2019_bridges.zip">download</a></td>
+                <td align="center"><a href="https://paintshop-bucket.s3.amazonaws.com/v1.1/resources/appending_plaintext/Mateo2019_bridges.txt">link</a></td>
             </tr>
             <tr>
                 <td align="left">Xia et al. 2019 Bridges</td>
                 <td align="center"><a href="https://paintshop-bucket.s3.amazonaws.com/v1.1/resources/appending/Xia2019_bridges.zip">download</a></td>
+                <td align="center"><a href="https://paintshop-bucket.s3.amazonaws.com/v1.1/resources/appending_plaintext/Xia2019_bridges.txt">link</a></td>
             </tr>
             <tr>
                 <td align="left">MERFISH Bridges</td>
                 <td align="center"><a href="https://paintshop-bucket.s3.amazonaws.com/v1.1/resources/appending/merfish_bridges.zip">download</a></td>
+                <td align="center"><a href="https://paintshop-bucket.s3.amazonaws.com/v1.1/resources/appending_plaintext/merfish_bridges.txt">link</a></td>
             </tr>
             <tr>
                 <td align="left">MERFISH Primers</td>
                 <td align="center"><a href="https://paintshop-bucket.s3.amazonaws.com/v1.1/resources/appending/merfish_primers.zip">download</a></td>
+                <td align="center"><a href="https://paintshop-bucket.s3.amazonaws.com/v1.1/resources/appending_plaintext/merfish_primers.txt">link</a></td>
             </tr>
             <tr>
                 <td align="left">Appending Nomenclature</td>
                 <td align="center"><a href="https://paintshop-bucket.s3.amazonaws.com/v1.1/resources/appending/nomenclature.zip">download</a></td>
+                <td align="center"><a href="https://paintshop-bucket.s3.amazonaws.com/v1.1/resources/appending_plaintext/nomenclature.txt">link</a></td>
             </tr>
             <tr>
                 <td align="left">PaintSHOP Bridges</td>
                 <td align="center"><a href="https://paintshop-bucket.s3.amazonaws.com/v1.1/resources/appending/ps_bridges.zip">download</a></td>
+                <td align="center"><a href="https://paintshop-bucket.s3.amazonaws.com/v1.1/resources/appending_plaintext/ps_bridges.txt">link</a></td>
             </tr>
             <tr>
                 <td align="left">PaintSHOP Inner Forward Primers</td>
                 <td align="center"><a href="https://paintshop-bucket.s3.amazonaws.com/v1.1/resources/appending/ps_if.zip">download</a></td>
+                <td align="center"><a href="https://paintshop-bucket.s3.amazonaws.com/v1.1/resources/appending_plaintext/ps_if.txt">link</a></td>
             </tr>
             <tr>
                 <td align="left">PaintSHOP Inner Reverse Primers</td>
                 <td align="center"><a href="https://paintshop-bucket.s3.amazonaws.com/v1.1/resources/appending/ps_ir.zip">download</a></td>
+                <td align="center"><a href="https://paintshop-bucket.s3.amazonaws.com/v1.1/resources/appending_plaintext/ps_ir.txt">link</a></td>
             </tr>
             <tr>
                 <td align="left">PaintSHOP Outer Forward Primers</td>
                 <td align="center"><a href="https://paintshop-bucket.s3.amazonaws.com/v1.1/resources/appending/ps_of.zip">download</a></td>
+                <td align="center"><a href="https://paintshop-bucket.s3.amazonaws.com/v1.1/resources/appending_plaintext/ps_of.txt">link</a></td>
             </tr>
             <tr>
                 <td align="left">PaintSHOP Outer Reverse Primers</td>
                 <td align="center"><a href="https://paintshop-bucket.s3.amazonaws.com/v1.1/resources/appending/ps_or.zip">download</a></td>
+                <td align="center"><a href="https://paintshop-bucket.s3.amazonaws.com/v1.1/resources/appending_plaintext/ps_or.txt">link</a></td>
             </tr>
             <tr>
                 <td align="left">SABER 1X Sequences</td>
                 <td align="center"><a href="https://paintshop-bucket.s3.amazonaws.com/v1.1/resources/appending/saber_1x.zip">download</a></td>
+                <td align="center"><a href="https://paintshop-bucket.s3.amazonaws.com/v1.1/resources/appending_plaintext/saber_1x.txt">link</a></td>
             </tr>
             <tr>
                 <td align="left">SABER 2X Sequences</td>
                 <td align="center"><a href="https://paintshop-bucket.s3.amazonaws.com/v1.1/resources/appending/saber_2x.zip">download</a></td>
+                <td align="center"><a href="https://paintshop-bucket.s3.amazonaws.com/v1.1/resources/appending_plaintext/saber_2x.txt">link</a></td>
             </tr>
         </tbody>
     </table>
