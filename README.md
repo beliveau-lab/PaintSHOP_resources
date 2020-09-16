@@ -114,6 +114,11 @@ A collection of downloadable resources accompanying the PaintSHOP application.
         </thead>
         <tbody>
             <tr>
+                <td align="left">Kishi et al. 2019 Bridges</td>
+                <td align="center"><a href="https://paintshop-bucket.s3.amazonaws.com/v1.1/resources/appending/Kishi2019_bridges.zip">download</a></td>
+                <td align="center"><a href="https://paintshop-bucket.s3.amazonaws.com/v1.1/resources/appending_plaintext/Kishi2019_bridges.txt">link</a></td>
+            </tr>
+            <tr>
                 <td align="left">Mateo et al. 2019 Bridges</td>
                 <td align="center"><a href="https://paintshop-bucket.s3.amazonaws.com/v1.1/resources/appending/Mateo2019_bridges.zip">download</a></td>
                 <td align="center"><a href="https://paintshop-bucket.s3.amazonaws.com/v1.1/resources/appending_plaintext/Mateo2019_bridges.txt">link</a></td>
