@@ -1,3 +1,100 @@
-<h1>Hello, world!</h1>
+<!doctype html>
+<html lang="en">
+    <head>
 
-setting up GitHub pages...
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <meta name="description" content="PaintSHOP enables the interactive design of transcriptome- and genome-scale oligonucleotide FISH experiments.">
+
+        <!-- https://bootswatch.com/4/flatly/bootstrap.css -->
+        <link rel="stylesheet" href="static/vendor/bootswatch/bootstrap.min.css">
+        <link rel="stylesheet" href="static/css/custom.css">
+
+        <!-- favicon from https://favicon.io/emoji-favicons/dna/ -->
+        <link rel="apple-touch-icon" sizes="180x180" href="static/vendor/favicon.io/apple-touch-icon.png">
+        <link rel="icon" type="image/png" sizes="32x32" href="static/vendor/favicon.io/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="static/vendor/favicon.io/favicon-16x16.png">
+        <link rel="manifest" href="static/vendor/favicon.io/site.webmanifest">
+
+        <title>PaintSHOP Home</title>
+
+    </head>
+
+    <body>
+
+        <!-- navbar -->
+        <nav class="navbar navbar-expand-md navbar-dark bg-primary fixed-top">
+            <div class="container">
+                <a class="navbar-brand" href="">paintshop.io</a>
+                <ul class="navbar-nav navbar-right">
+                    <li class="nav-item">
+                        <a target="blank" class="nav-link" title="Beliveau Lab Website" href="https://beliveau.io">Beliveau Lab</a>
+                    </li>
+                </ul>
+            </div>
+        </nav>
+
+        <!-- main content -->
+        <div class="container-fluid">
+            
+            <!-- page header -->
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2 class="text-center">Welcome to the PaintSHOP homepage!</h2>
+                    <p>
+                        Check out the preprint:
+                        <a href="https://www.biorxiv.org/content/10.1101/2020.07.05.188797v1" target="_blank">
+                            <img src="static/img/biorxiv.svg">
+                        </a>
+                    </p>
+                </div>
+            </div>
+
+            <!-- launch PaintSHOP -->
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <p><img id="logo" src="static/img/logo.png"></p>
+                    <p class="lead lead-lg">Click below to design probes with PaintSHOP</p>
+                    <a id="launch" class="btn btn-lg btn-info" href="https://oligo.shinyapps.io/paintshop/" target="_blank">
+                        Launch PaintSHOP
+                    </a>
+                </div>
+            </div>
+
+            <!-- links to other resources -->
+            <div class="row">
+                <div class="col-lg-4 offset-lg-2 text-center info_div border-primary">
+                    <h3>PaintSHOP Resources</h3>
+                    <p class="lead">
+                        View and download existing genome-wide DNA and RNA FISH probe collections and appending sequence files.
+                    </p>
+                    <a class="btn btn-lg btn-primary info_button" href="https://github.com/beliveau-lab/PaintSHOP_resources" target="_blank">
+                        View Resources
+                    </a>
+                </div>
+                <div class="col-lg-4 text-center info_div">
+                    <h3>PaintSHOP Pipeline</h3>
+                    <p class="lead">
+                        Generate genome-wide probe collections <i>de novo</i> for your genome assembly of interest using our snakemake
+                        pipeline.
+                    </p>
+                    <a class="btn btn-lg btn-primary info_button" href="https://github.com/beliveau-lab/PaintSHOP_pipeline" target="_blank">
+                        View Pipeline
+                    </a>
+                </div>
+            </div>
+
+        </div>
+
+        <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+        <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+
+        <script src="static/js/custom.js"></script>
+
+        <!-- website footer -->
+        <div id='footer_wrapper'></div>
+
+    </body>
+</html>

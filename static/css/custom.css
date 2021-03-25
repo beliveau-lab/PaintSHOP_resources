@@ -1,0 +1,61 @@
+
+/* add spacing under navbar */
+body {
+	margin-top: 100px;
+}
+
+/* increase font size for lead paragraphs*/
+.lead-lg {
+	font-size: 26px;
+}
+
+/* landing page logo */
+#logo {
+	max-width: 10%;
+	margin-bottom: 10px;
+	margin-top: 30px;
+}
+
+/* Launch PaintSHOP button */
+#launch {
+	margin-top: 15px;
+	margin-bottom: 60px;
+	width: 300px;
+	height: 80px;
+	font-size: 30px;
+	padding-top: 15px;
+}
+
+/* links to resources and pipeline */
+.info_div {
+	padding: 30px;
+}
+.info_button {
+	width: 210px;
+	height: 60px;
+	font-size: 22px;
+	padding-top: 12px;
+}
+
+/* footer CSS: http://getbootstrap.com/examples/sticky-footer-navbar */
+html {
+  position: relative;
+  min-height: 100%;
+}
+body {
+  margin-bottom: 60px;
+}
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 30px;
+  text-align: center;
+}
+
+.centertext {
+  text-align: center;
+  border: solid;
+}
+
+
