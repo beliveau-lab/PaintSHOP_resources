@@ -227,6 +227,8 @@ And the types are:
 
 For example: ps_of1 is the first outer forward primer of the PaintSHOP set. The actual sequence is also shown for each table entry as well.
 
+**Note:** Because the appending sequences are generally designed to be orthogonal to many genomes and have minimal secondary structure propensity, these generally can be added at will to any probe set. That said, it is always possible that in rare cases specific probe + appending sequence combinations can lead to *de novo* secondary structure or drive off-target binding. Secondary structure formation propensity can be checked with the OligoMiner [structureCheck.py](https://github.com/beliveau-lab/OligoMiner/blob/master/structureCheck.py) script and off-target binding potential can be checked with [BLAST](https://blast.ncbi.nlm.nih.gov/Blast.cgi?PROGRAM=blastn&PAGE_TYPE=BlastSearch&LINK_LOC=blasthome) against nr/nt.
+
 ## PaintSHOP appending sequence sets
 
 **PaintSHOP 5' Outer Primer Set** 
