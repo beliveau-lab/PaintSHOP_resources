@@ -8,10 +8,10 @@ DEST_FILE="index.html"
 diff $HTML_FILE $DEST_FILE > /dev/null
 RESULT=$?
 if [ $RESULT -eq 0 ]; then
-	echo "Files do not differ. Exiting..."
+    echo "Files do not differ. Exiting..."
 else
-	echo "Files differ. Overwriting $DEST_FILE with latest version..."
-	cp PaintSHOP_user_guide.html index.html
+    echo "Files differ. Overwriting $DEST_FILE with latest version..."
+    cp PaintSHOP_user_guide.html index.html
 fi
 
 # success
