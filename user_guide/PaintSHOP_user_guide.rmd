@@ -91,7 +91,7 @@ Also note that the table can be searched, resized, and paged through. For more i
 
 **newBalance (RNA)**
 
-probe sets for the hg38, hg19, mm10, mm9, dm6, ce11, danRer11, TAIR10, and sacCer3 genomes with a length window of 30-37 nucleotides and a Tm of window of 42-47 degrees. These parameters were selected to optimize probe coverage and hybridization. For more information on these new probe sets, please refer to the PaintSHOP manuscript.
+probe sets for the hg38, hg19, mm10, mm9, dm6, ce11, danRer11, TAIR10, and sacCer3 (new: rn6, galGal5, galGal6) genomes with a length window of 30-37 nucleotides and a Tm of window of 42-47 degrees. These parameters were selected to optimize probe coverage and hybridization. For more information on these new probe sets, please refer to the PaintSHOP manuscript.
 
 **OligoMiner (RNA)**
 
@@ -107,7 +107,7 @@ the full 40-mer probe set from [iFISH4U](http://ifish4u.org/).
 
 All probe sets in the RNA Probe Design tab have been intersected with the RefSeq for their respective reference genomes in order to provide quick retrieval of probes for annotations. To retrieve probes target regions outside of these annotations, please use the DNA Probe Design tab.
 
-We have now added a new set of 'isoform flattened' probe sets for RNA FISH probe design. These ‘isoform flattened’ annotation sets prioritize shared exonic sequence between isoforms (Methods) in order to maximize the chance of detection and only modestly reduce the coverage of the transcriptome when used for probe intersects. These sets exist with the newBalance probes for the hg38, hg19, mm10, dm6, ce11, danRer11, TAIR10, and sacCer3 reference genomes.
+We have now added a new set of 'isoform flattened' probe sets for RNA FISH probe design. These ‘isoform flattened’ annotation sets prioritize shared exonic sequence between isoforms (Methods) in order to maximize the chance of detection and only modestly reduce the coverage of the transcriptome when used for probe intersects. These sets exist with the newBalance probes for the hg38, hg19, mm10, dm6, ce11, danRer11, TAIR10, and sacCer3 (new: rn6, galGal5, galGal6) reference genomes.
 
 # DNA Probe Design
 
@@ -136,7 +136,7 @@ Also note that the table can be searched, resized, and paged through. For more i
 
 **newBalance (DNA)**
 
-probe sets for the hg38, hg19, mm10, mm9, dm6, ce11, danRer11, TAIR10, and sacCer3 genomes with a length window of 30-37 nucleotides and a Tm of window of 42-47 degrees. These parameters were selected to optimize probe coverage and hybridization. For more information on these new probe sets, please refer to the PaintSHOP manuscript.
+probe sets for the hg38, hg19, mm10, mm9, dm6, ce11, danRer11, TAIR10, and sacCer3 (new: rn6, galGal5, galGal6) genomes with a length window of 30-37 nucleotides and a Tm of window of 42-47 degrees. These parameters were selected to optimize probe coverage and hybridization. For more information on these new probe sets, please refer to the PaintSHOP manuscript.
 
 **OligoMiner (DNA)**
 
