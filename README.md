@@ -74,6 +74,24 @@ A collection of downloadable resources accompanying the PaintSHOP application.
                 <td align="center"><a href="https://paintshop-bucket.s3.amazonaws.com/v1.1/resources/iso/sacCer3_iso_newBalance.zip">download</a></td>
             </tr>
             <tr>
+                <td align="left">rn6 newBalance</td>
+                <td align="center"><a href="https://paintshop-bucket.s3.amazonaws.com/v1.1/resources/all/rn6_all_newBalance.zip">download</a></td>
+                <td align="center"><a href="https://paintshop-bucket.s3.amazonaws.com/v1.1/resources/refseq/rn6_refseq_newBalance.zip">download</a></td>
+                <td align="center"><a href="https://paintshop-bucket.s3.amazonaws.com/v1.1/resources/iso/rn6_iso_newBalance.zip">download</a></td>
+            </tr>
+            <tr>
+                <td align="left">galGal5 newBalance</td>
+                <td align="center"><a href="https://paintshop-bucket.s3.amazonaws.com/v1.1/resources/all/galGal5_all_newBalance.zip">download</a></td>
+                <td align="center"><a href="https://paintshop-bucket.s3.amazonaws.com/v1.1/resources/refseq/galGal5_refseq_newBalance.zip">download</a></td>
+                <td align="center"><a href="https://paintshop-bucket.s3.amazonaws.com/v1.1/resources/iso/galGal5_iso_newBalance.zip">download</a></td>
+            </tr>
+            <tr>
+                <td align="left">galGal6 newBalance</td>
+                <td align="center"><a href="https://paintshop-bucket.s3.amazonaws.com/v1.1/resources/all/galGal6_all_newBalance.zip">download</a></td>
+                <td align="center"><a href="https://paintshop-bucket.s3.amazonaws.com/v1.1/resources/refseq/galGal6_refseq_newBalance.zip">download</a></td>
+                <td align="center"><a href="https://paintshop-bucket.s3.amazonaws.com/v1.1/resources/iso/galGal6_iso_newBalance.zip">download</a></td>
+            </tr>
+            <tr>
                 <td align="left">OligoMiner hg38 balance</td>
                 <td align="center"><a href="https://paintshop-bucket.s3.amazonaws.com/v1.1/resources/all/hg38b_all_newBalance.zip">download</a></td>
                 <td align="center"><a href="https://paintshop-bucket.s3.amazonaws.com/v1.1/resources/refseq/hg38b_refseq_newBalance.zip">download</a></td>
