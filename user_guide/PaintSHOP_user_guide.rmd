@@ -3,9 +3,6 @@ title: "PaintSHOP User Guide"
 subtitle: "PaintSHOP can be accessed at [paintshop.io](https://paintshop.io/)"
 date: "Revised: `r format(as.POSIXct(Sys.time(), tz='UTC'), '%d %B %Y', tz='America/Los_Angeles', usetz=FALSE)` (latest version: [PDF](https://paintshop.io/user_guide/PaintSHOP_user_guide.pdf) | [HTML](https://paintshop.io/user_guide/))"
 output:
-  pdf_document:
-    number_sections: true
-    highlight: pygments
   html_document:
     keep_md: false
     df_print: paged
@@ -16,6 +13,11 @@ output:
     toc_float:
       collapsed: false
       smooth_scroll: true
+    includes:
+      in_header: "header.html"
+  pdf_document:
+    number_sections: true
+    highlight: pygments
 bibliography: "bibliography.bib"
 urlcolor: blue
 linkcolor: blue
