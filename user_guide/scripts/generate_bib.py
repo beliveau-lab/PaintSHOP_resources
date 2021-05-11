@@ -13,6 +13,7 @@ DOI_DICT = {
     '10.1073/pnas.1912459116': 'xia_2019',
     '10.1126/science.aaa6090': 'MERFISH',
     '10.1093/bioinformatics/btr011': 'jellyfish',
+    '10.1021/acssynbio.9b00523': 'NUPACK',
 }
 URL = 'http://api.crossref.org/works/%(doi)s/transform/application/x-bibtex'
 
