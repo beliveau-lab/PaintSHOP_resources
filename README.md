@@ -32,6 +32,12 @@ A collection of downloadable resources accompanying the PaintSHOP application.
                 <td align="center"><a href="https://paintshop-bucket.s3.amazonaws.com/v1.2/resources/iso/hg19_iso_newBalance.zip">download</a></td>
             </tr>
             <tr>
+                <td align="left">chm13 newBalance</td>
+                <td align="center"><a href="https://paintshop-bucket.s3.amazonaws.com/v1.2/resources/all/chm13_all_newBalance.zip">download</a></td>
+                <td align="center"><a href="https://paintshop-bucket.s3.amazonaws.com/v1.2/resources/refseq/chm13_refseq_newBalance.zip">download</a></td>
+                <td align="center"><a href="https://paintshop-bucket.s3.amazonaws.com/v1.2/resources/iso/chm13_iso_newBalance.zip">download</a></td>
+            </tr>
+            <tr>
                 <td align="left">mm10 newBalance</td>
                 <td align="center"><a href="https://paintshop-bucket.s3.amazonaws.com/v1.2/resources/all/mm10_all_newBalance.zip">download</a></td>
                 <td align="center"><a href="https://paintshop-bucket.s3.amazonaws.com/v1.2/resources/refseq/mm10_refseq_newBalance.zip">download</a></td>
