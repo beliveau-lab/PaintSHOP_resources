@@ -116,6 +116,12 @@ A collection of downloadable resources accompanying the PaintSHOP application.
                 <td align="center"><a href="https://paintshop-bucket.s3.amazonaws.com/v1.2/resources/iso/xenTro10_iso_newBalance.zip">download</a></td>
             </tr>
             <tr>
+                <td align="left">Nfu_20140520 newBalance</td>
+                <td align="center"><a href="https://paintshop-bucket.s3.amazonaws.com/v1.2/resources/all/Nfu_20140520_all_newBalance.zip">download</a></td>
+                <td align="center"><a href="https://paintshop-bucket.s3.amazonaws.com/v1.2/resources/refseq/Nfu_20140520_refseq_newBalance.zip">download</a></td>
+                <td align="center"><a href="https://paintshop-bucket.s3.amazonaws.com/v1.2/resources/iso/Nfu_20140520_iso_newBalance.zip">download</a></td>
+            </tr>
+            <tr>
                 <td align="left">OligoMiner hg38 balance</td>
                 <td align="center"><a href="https://paintshop-bucket.s3.amazonaws.com/v1.2/resources/all/hg38b_all_newBalance.zip">download</a></td>
                 <td align="center"><a href="https://paintshop-bucket.s3.amazonaws.com/v1.2/resources/refseq/hg38b_refseq_newBalance.zip">download</a></td>
