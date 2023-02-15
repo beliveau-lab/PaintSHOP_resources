@@ -122,6 +122,12 @@ A collection of downloadable resources accompanying the PaintSHOP application.
                 <td align="center"><a href="https://paintshop-bucket.s3.amazonaws.com/v1.2/resources/iso/Nfu_20140520_iso_newBalance.zip">download</a></td>
             </tr>
             <tr>
+                <td align="left">AaegL5.0 newBalance</td>
+                <td align="center"><a href="https://paintshop-bucket.s3.amazonaws.com/v1.2/resources/all/AaegL5.0_all_newBalance.zip">download</a></td>
+                <td align="center"><a href="https://paintshop-bucket.s3.amazonaws.com/v1.2/resources/refseq/AaegL5.0_refseq_newBalance.zip">download</a></td>
+                <td align="center"><a href="https://paintshop-bucket.s3.amazonaws.com/v1.2/resources/iso/AaegL5.0_iso_newBalance.zip">download</a></td>
+            </tr>
+            <tr>
                 <td align="left">OligoMiner hg38 balance</td>
                 <td align="center"><a href="https://paintshop-bucket.s3.amazonaws.com/v1.2/resources/all/hg38b_all_newBalance.zip">download</a></td>
                 <td align="center"><a href="https://paintshop-bucket.s3.amazonaws.com/v1.2/resources/refseq/hg38b_refseq_newBalance.zip">download</a></td>
