@@ -4,7 +4,8 @@
 
 # PaintSHOP_resources
 
-[![DOI](./docs/img/preprint.svg)](https://doi.org/10.1101/2020.07.05.188797)
+[![DOI](./docs/img/preprint.svg)](https://doi.org/10.1101/2020.07.05.188797)   
+
 A collection of downloadable resources accompanying the PaintSHOP application.
 
 ## FISH Probe Sets
